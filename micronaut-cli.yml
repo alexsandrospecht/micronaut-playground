@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: micronaut.playgroung
+---
+testFramework: junit
+sourceLanguage: java
